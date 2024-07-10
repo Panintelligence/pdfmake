@@ -73,7 +73,7 @@
   "bugs": {
     "url": "https://github.com/panintelligence/pdfmake/issues"
   },
-  "homepage": "http://pdfmake.org",
+  "homepage": "https://github.com/panintelligence/pdfmake",
   "config": {
     "blanket": {
       "pattern": "src",
