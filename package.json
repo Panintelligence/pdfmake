@@ -1,6 +1,6 @@
 {
   "name": "pdfmake",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "description": "Client/server side PDF printing in pure JavaScript",
   "main": "src/printer.js",
   "browser": "build/pdfmake.js",
@@ -60,7 +60,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bpampuch/pdfmake.git"
+    "url": "git://github.com/panintelligence/pdfmake.git"
   },
   "keywords": [
     "pdf",
@@ -71,7 +71,7 @@
   "author": "Bartek Pampuch <bartosz.pampuch@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bpampuch/pdfmake/issues"
+    "url": "https://github.com/panintelligence/pdfmake/issues"
   },
   "homepage": "http://pdfmake.org",
   "config": {
