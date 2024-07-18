@@ -1,11 +1,5 @@
 'use strict';
 
-// Internet Explorer polyfills
-if (typeof window !== 'undefined' && !window.Promise) {
-	require('core-js/features/promise');
-}
-require('core-js/es/object/values');
-
 var fetchUrl = function (url, headers) {
 	return new Promise(function (resolve, reject) {
 		var xhr = new XMLHttpRequest();
